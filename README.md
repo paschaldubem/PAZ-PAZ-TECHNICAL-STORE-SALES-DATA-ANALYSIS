@@ -62,7 +62,7 @@ Its entity relationship diagram:
 <img width="1747" height="617" alt="SALES" src="https://github.com/user-attachments/assets/bbc6f179-50fa-48fc-bda4-4188ca552245" />
 
 
-**PRODUCTS DATABASE**: This consists of **24 unique columns** and contains the Standardized product catalog of over 1200+ unique items with assigned SKUs and categories described below
+**PRODUCTS DATABASE**: This consists of **24 unique columns** and contains the Standardized product catalogue of over 1200+ unique items with assigned SKUs and categories described below
 
 <img width="846" height="695" alt="PRODUCT DATABASE" src="https://github.com/user-attachments/assets/0eda0032-0e75-4174-8527-6cd72bdba440" />
 
