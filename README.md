@@ -22,7 +22,7 @@ Paz & Paz Technical Tool Store is a Nigerian-based retailer specializing in buil
 
 They experience a fairly common challenge many Nigerian SMEs encounter, which is an inability to track trends in sales and measure profit performance of the business in near real time or at all, as well as the inability to understand which products are driving growth due to fragmented handwritten sales records.
 
-As the Business Data Consultant, my goal was to digitize their analog record-keeping (click here to see), build a structured sales database, and perform an in-depth data analysis to uncover actionable insights on sales, profit margins, and inventory efficiency.
+As the Business Data Consultant, my goal was to digitize their analog record-keeping [CLICK HERE](https://github.com/paschaldubem/PAZ-PAZ-TECHNICAL-STORE-SALES-DATA-ANALYSIS/blob/main/Raw%20sales%20records.jpg), build a structured sales database, and perform an in-depth data analysis to uncover actionable insights on sales, profit margins, and inventory efficiency.
 
 This project report documents this end-to-end process with the objective of transitioning the business from analog to digital data management, uncovering insights that would help the company make informed decisions on inventory control, sales performance, and profitability optimization.
 
