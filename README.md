@@ -200,7 +200,7 @@ Throughout the project, several challenges and assumptions were made to maintain
 
 
 ## IN PROGRESS
-Building a sales reporting AI agent to send out daily summarized sales breakdowns to relevant stakeholders, enabling near real-time remote monitoring. View MVP below:
+Built an MVP sales reporting AI agent in n8n to send out daily summarized sales breakdowns to relevant stakeholders, enabling near real-time remote monitoring. View MVP below:
 
 <img width="1632" height="892" alt="paz" src="https://github.com/user-attachments/assets/b6321a98-7e6e-4e01-a081-fde0f25931f7" />
 
